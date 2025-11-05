@@ -1,4 +1,6 @@
-# Hashly  <img src="./logo.png" alt="Logo Hashly" width="10%" />
+# Hashly  
+
+<img src="./logo.png" alt="Logo Hashly" width="10%" />
 
 Hashly is a college cybersecurity project that automatically detects the hashing algorithm of a given hash, suggests the best cracking method, and generates ready-to-use commands for tools like Hashcat or John the Ripper.
 
